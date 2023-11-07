@@ -19,6 +19,6 @@ The app allows users to easily order their favorite coffee beverages, providing 
 ## Contact
 
 Davyd Kuleba
-Email: kulebadavid@gmail.com
-Discord: @glauuucoma
-GitHub: [https://github.com/glauuucoma/](https://github.com/glauuucoma)
+Email: kulebadavid@gmail.com <br/>
+Discord: @glauuucoma <br/>
+GitHub: [https://github.com/glauuucoma/](https://github.com/glauuucoma)<br/>
