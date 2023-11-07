@@ -18,6 +18,7 @@ The app allows users to easily order their favorite coffee beverages, providing 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Davyd Kuleba
+Email: kulebadavid@gmail.com
+Discord: @glauuucoma
+GitHub: [https://github.com/glauuucoma/](https://github.com/glauuucoma)
